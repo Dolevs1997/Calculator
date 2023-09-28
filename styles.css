@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+  padding-bottom: 100px;
+
+}
+.container {
+  line-height: 70px;
+  
+  
+}
+h1{
+  color: white;
+}
+div {
+  text-align: center;
+  margin-top:5px;
+
+}
+.result-button,.operation-button,.operator-button{
+  background-color: rgb(56, 56, 56);
+  color: white;
+  padding:18px 25px;
+  border: none;
+  border-radius: 180px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.operator-button{
+  background-color: orange;
+  padding:18px 25px;
+}
+#clear-btn{
+  margin-right:215px;
+  padding:17px 5px;
+}
+.calculation-style{
+  color: white;
+}
